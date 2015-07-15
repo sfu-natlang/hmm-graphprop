@@ -1,0 +1,1 @@
+/cs/natlang-user/ramtin/git/hmm_graph/tasks/word_seg/english/brent_ratner/README.txt

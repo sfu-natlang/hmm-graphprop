@@ -1,0 +1,10 @@
+Context -2 -1 0 1 2 
+Trigram -1 0 1
+Left_Context -2 -1
+Right_Context 1 2
+Center_Word 0
+Trigram_Minus_CenterWord -1 1
+LeftWord_Plus_RightContext -1 1 2
+LeftContext_Plus_RightWord -2 -1 1
+function_suffix	0
+

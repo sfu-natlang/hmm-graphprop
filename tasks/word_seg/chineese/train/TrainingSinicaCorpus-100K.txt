@@ -1,0 +1,1 @@
+/cs/natlang-user/ramtin/git/hmm_graph/tasks/word_seg/chineese/train/TrainingSinicaCorpus-100K.txt
